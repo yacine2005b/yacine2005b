@@ -4,8 +4,8 @@ I'm BOUZIANE YOUSSOUF YASSINE, a passionate COMPUTER SCIENCE MAJOR from CHLEF AL
 
 ## 🌱 I’m currently learning
 
-- LEARNING EXPRESS JS
-- LEARNING C AND C++
+- EXPRESS JS
+- C AND C++
 
 ## 📈 GitHub Stats
 
