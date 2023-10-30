@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# hi,there 👋
 
 I'm BOUZIANE YOUSSOUF YASSINE, a passionate COMPUTER SCIENCE MAJOR from CHLEF ALGERIA.
 
