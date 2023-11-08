@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yybouz1802@gmail.com**
 
-- ⚡ Fun fact **Striker on the soccer field, coder in the code arena. Scoring goals and debugging code with equal flair. ⚽💻**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
