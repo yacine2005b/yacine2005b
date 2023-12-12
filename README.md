@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yacine Bouziane</h1>
 <h3 align="center">A computer science student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yacine2005b" alt="yacine2005b" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yacine2005b" alt="yacine2005b" /></a> </p>
 - 🔭 I’m currently working on [Homy](https://github.com/yacine2005b/homy-org.git)
 
 - 🌱 I’m currently learning **Tailwind,Python,Express js**
