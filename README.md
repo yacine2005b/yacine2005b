@@ -3,13 +3,6 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yacine2005b" alt="yacine2005b" /></a> </p>
-- 🌱 I’m currently learning **Tailwind,Python,Express js**
-
-- 💬 Ask me about **html,css,sass,javaScript,C**
-
-- 📫 How to reach me **yybouz1802@gmail.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
